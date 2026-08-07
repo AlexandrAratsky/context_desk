@@ -1,0 +1,8 @@
+version: 1
+source_dir: "./context"
+exports_path: "./exports"
+prompts_path: "./prompts"
+mcp:
+  enabled: false
+  host: "127.0.0.1"
+  port: 8001
